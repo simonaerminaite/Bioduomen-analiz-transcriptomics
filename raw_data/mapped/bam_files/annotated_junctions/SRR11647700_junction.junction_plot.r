@@ -1,0 +1,8 @@
+pdf("/home/genetics/HW1/raw_data/mapped/bam_files/annotated_junctions/SRR11647700_junction.splice_events.pdf")
+events=c(0.5059063476718499,3.5154754120134064,95.88945146161875)
+pie(events,col=c(2,3,4),init.angle=30,angle=c(60,120,150),density=c(70,70,70),main="splicing events",labels=c("partial_novel 1%","complete_novel 4%","known 96%"))
+dev.off()
+pdf("/home/genetics/HW1/raw_data/mapped/bam_files/annotated_junctions/SRR11647700_junction.splice_junction.pdf")
+junction=c(8.450969055106636,15.394414594820738,76.15461635007263)
+pie(junction,col=c(2,3,4),init.angle=30,angle=c(60,120,150),density=c(70,70,70),main="splicing junctions",labels=c("partial_novel 8%","complete_novel 15%","known 76%"))
+dev.off()

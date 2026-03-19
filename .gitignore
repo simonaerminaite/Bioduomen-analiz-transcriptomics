@@ -1,0 +1,16 @@
+references/
+raw_data/mapped/SRR11647688.sam
+raw_data/mapped/SRR11647689.sam
+raw_data/mapped/SRR11647690.sam
+raw_data/mapped/SRR11647699.sam
+raw_data/mapped/SRR11647700.sam
+raw_data/mapped/SRR11647701.sam
+raw_data/*.gz
+raw_data/fastq_trimmed/*.gz
+raw_data/mapped/bam_files/*.bam
+raw_data/mapped/bam_files/annotated_junctions/*.bed
+raw_data/mapped/bam_files/coverage
+raw_data/mapped/bam_files/duplicates
+raw_data/mapped/bam_files/gene_coverage/hg38_GENCODE_V47.bed
+raw_data/mapped/bam_files/gene_coverage/*bam
+

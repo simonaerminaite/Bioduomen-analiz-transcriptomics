@@ -1,0 +1,15 @@
+Status	/home/genetics/HW1/raw_data/mapped/bam_files/SRR11647688.bam	/home/genetics/HW1/raw_data/mapped/bam_files/SRR11647689.bam	/home/genetics/HW1/raw_data/mapped/bam_files/SRR11647690.bam	/home/genetics/HW1/raw_data/mapped/bam_files/SRR11647699.bam	/home/genetics/HW1/raw_data/mapped/bam_files/SRR11647700.bam	/home/genetics/HW1/raw_data/mapped/bam_files/SRR11647701.bam
+Assigned	13406495	15050649	12368465	12367159	12205837	13555543
+Unassigned_Unmapped	121039	268416	352206	144320	238709	188306
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	2519313	3061890	1831142	1469059	8589680	1892134
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	2587134	1994172	2283218	2583562	2258975	2901268
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	1416552	1802465	1473682	1373908	1465471	1623562

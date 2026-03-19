@@ -1,0 +1,22 @@
+[2026-02-26 23:40:36,513] multiqc                                            [DEBUG  ]  This is MultiQC v1.18
+[2026-02-26 23:40:36,513] multiqc                                            [DEBUG  ]  Command used: /usr/bin/multiqc .
+[2026-02-26 23:40:37,045] multiqc                                            [WARNING]  MultiQC Version v1.33 now available!
+[2026-02-26 23:40:37,046] multiqc                                            [DEBUG  ]  Working dir : /home/genetics/HW1/raw_data/fastq_trimmed/fastqc_trimmed
+[2026-02-26 23:40:37,046] multiqc                                            [DEBUG  ]  Template    : default
+[2026-02-26 23:40:37,046] multiqc                                            [DEBUG  ]  Running Python 3.12.3 (main, Jan 22 2026, 20:57:42) [GCC 13.3.0]
+[2026-02-26 23:40:37,047] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, mapdamage, biobambam2, jcvi, mtnucratio, picard, vep, bakta, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, seqera_cli, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, truvari, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, freyja, humid, kat, leehom, librarian, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, sourmash, kaiju, bracken, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap, xenome, xengsort
+[2026-02-26 23:40:37,047] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmp1cj3r67z
+[2026-02-26 23:40:37,072] multiqc                                            [INFO   ]  Search path : /home/genetics/HW1/raw_data/fastq_trimmed/fastqc_trimmed
+[2026-02-26 23:40:37,525] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_module_specific_max_filesize: 144] // [skipped_no_match: 12]
+[2026-02-26 23:40:50,532] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.6.3
+[2026-02-26 23:40:50,541] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.6.3
+[2026-02-26 23:40:50,542] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2026-02-26 23:40:50,969] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 12 reports
+[2026-02-26 23:40:51,018] multiqc.utils.software_versions                    [DEBUG  ]  Reading software versions from config.software_versions
+[2026-02-26 23:40:51,042] multiqc                                            [DEBUG  ]  Compressing plot data
+[2026-02-26 23:40:51,167] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2026-02-26 23:40:51,167] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2026-02-26 23:40:51,167] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmp1cj3r67z/multiqc_data' to '/home/genetics/HW1/raw_data/fastq_trimmed/fastqc_trimmed/multiqc_data'
+[2026-02-26 23:40:51,168] multiqc                                            [DEBUG  ]  Full report path: /home/genetics/HW1/raw_data/fastq_trimmed/fastqc_trimmed/multiqc_report.html
+[2026-02-26 23:40:51,446] multiqc                                            [ERROR  ]  Could not include file 'assets/js/packages/jszip.min.js': [Errno 2] No such file or directory: '/tmp/tmp1cj3r67z/assets/js/packages/jszip.min.js'
+[2026-02-26 23:40:51,515] multiqc                                            [INFO   ]  MultiQC complete
