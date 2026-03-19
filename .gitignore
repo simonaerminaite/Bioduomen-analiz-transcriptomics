@@ -15,3 +15,4 @@ raw_data/mapped/bam_files/gene_coverage/hg38_GENCODE_V47.bed
 raw_data/mapped/bam_files/gene_coverage/*bam
 raw_data/mapped/bam_files/inner_distance/*.txt
 raw_data/mapped/bam_files/read_counts/.RData
+raw_data/mapped/bam_files/read_counts/counts.txt
